@@ -3,5 +3,12 @@
   "strictLineBreaks": true,
   "vimMode": false,
   "showLineNumber": true,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": true,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
