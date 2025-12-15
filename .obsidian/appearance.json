@@ -3,5 +3,6 @@
   "textFontFamily": "Cascadia Mono",
   "monospaceFontFamily": "Cascadia Mono",
   "baseFontSizeAction": true,
-  "baseFontSize": 16
+  "baseFontSize": 16,
+  "cssTheme": "Tokyo Night"
 }
