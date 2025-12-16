@@ -2,6 +2,7 @@
 tags:
   - English
   - English-Grammar-in-Use
+  - Present-perfect-and-past
 ---
 # Structure
 The present perfect simple is have/has + past participle. The past participle often ends in -ed, but many verbs are [[Regular and Irregular Verbs|irregular verbs]].
@@ -79,7 +80,7 @@ Gone (to) means someone has gone, and now, he is in his way to destination, he i
 
 To be precise, been (to) equals visited(noted that this is past form), whereas gone (to) equals past participle form of go.
 
-![[gone to and been to|1000|center]]
+![[Present perfect simple_1|1000|center]]
 
 ## Past Simple
 Everytime we use present perfect simple, we can also use past simple:
