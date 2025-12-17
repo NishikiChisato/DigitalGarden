@@ -8,12 +8,11 @@ tags:
 
 # Aspect comparsion
 
-## Perfect continuous aspect vs. perfect aspect
+## Perfect continuous aspect vs. perfect simple aspect
+#### Differences
 Let's take two scenarioes as example:
-
 - There is paint on Kate's clothes. She has been painting her bedroom. -> [[Present perfect continuous]]
 We are thinking of the **activity itself**. It doesn't matter whether it has been finished or not. In this example, the activity has not been finished.
-
 - The bedroom was green. Now it's yellow. She has painted her bedroom. -> [[Present perfect simple]]
 Here, the important thing is that **something has been finished**. 'She has painted' is a completed action. We are thinking about **the result of the activity**, not the activity itself.
 
@@ -33,7 +32,13 @@ We can use the *simple* to say *how much, how many or how many times*(for comple
 - I've been meaning to phone Anna, but I keep forgetting.
 > [!info] We can say we are in the middle of doing such action, but for these two words, we don't actually doing it, with present perfect continuous. 
 
-## Continuous aspect vs. perfect continuous
+#### Similarities
+We can use either the continuous or simple with **live** and **work**:
+- Julia has been living in this house for a long time. or Julia has lived...
+- How long have you been working here? or How long have you worked here?
+
+
+## Continuous aspect vs. perfect continuous aspect
 ### present continuous and present perfect continuous
 The difference between them is as the following shown:
 ![[Tense comparsion_1|1000|center]]

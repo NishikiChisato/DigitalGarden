@@ -23,7 +23,7 @@ In this example, there are three return paths, and both return `int`, therefore 
 
 ## To define structured bindings
 
-Noted that structured bindings only works with auto, instead of explicitly specifying type:
+Note that structured bindings only works with auto, instead of explicitly specifying type:
 
 ```cpp
 std::pair<int, std::string> func1() {
@@ -47,7 +47,7 @@ auto x{123}; // expression '123' has type 'int', so 'x' has tpye 'int'
 auto y{func()}; // variable 'y' would get the return type of 'func' function
 ```
 
-Noted that using `auto` to deduce the type of an expression **always strips** away reference and `const` qualifiers. That's say:
+Note that using `auto` to deduce the type of an expression **always strips** away reference and `const` qualifiers. That's say:
 
 ```cpp
 const std::string str{"Hotaru"};
@@ -144,4 +144,4 @@ decltype(x) y{10}; // 'y' has type int with value 10
 decltype(func) z{func("Hotaru")}; // 'z' has type const std::string&
 ```
 
-Noted that `decltype` doesn't evaluate the expression, compiler computers the type of that expression.
+Note that `decltype` doesn't evaluate the expression, compiler computers the type of that expression.

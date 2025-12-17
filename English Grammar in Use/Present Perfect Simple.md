@@ -2,7 +2,6 @@
 tags:
   - English
   - English-Grammar-in-Use
-  - Present-perfect-and-past
 ---
 # Structure
 The present perfect simple is have/has + past participle. The past participle often ends in -ed, but many verbs are [[Regular and Irregular Verbs|irregular verbs]].
@@ -11,7 +10,7 @@ Examples:
 Tom can't find his key. -> He's lost his key.
 He lost it and he doesn't have it now.
 
-# Semantic
+# Meaning
 We use present perfect simple to talk about a past action with a result in the present. We emphasize the **past action** and **current situation** that results from the past action.
 
 This is a brief overview, we're going to provide detailed explanation.
@@ -21,14 +20,14 @@ When we use the present perfect simple, there is a connection with now. The acti
 - He told me his name, but I've forgotten it. -> I can't remember it now
 - Sally is still here. She hasn't gone out. -> she is here now
 - I can't find my bag. Have you seen it?. -> do you know where it's now?
-^semantic-connect-now
+^meaning-connect-now
 
 When we talk about a period of time that continues from the past until now, we use the present perfect simple:
 - Have you ever eaten caviar? -> talking about the food that you has eaten in your life, which is a period that continues until now.
 - We've never had a car. -> in our life, we don't have a car.
 - I don't know what the film is about. I haven't seen it. -> the same as above.
 - Susan really loves that book. She's read it three times. -> the same as above.
-^semantic-until-now
+^meaning-until-now
 
 We say 'It's the (first/second/third) time something has happened'. For example: Don is having a driving lesson. It's his first lesson. We can say:
 - It's the first time he has driven a car. (not drives)
@@ -38,11 +37,18 @@ In the same way we say:
 - Sarah has lost her passport again. This is the second time this has happened.
 - Andy is phoning his girlfriend again. It's the third time he's phoned her this evening.
 - I bought a MacBook again. It's the second time I've bought it this year.
-^semantic-the-time
+^meaning-the-time
+
+We use the present perfect simple to talk about a state that began in the past and still continues now. Note that this usage overlaps with the [[Present perfect continuous#^meaning-still-happening|present perfect continuous]]; the key difference is that [[Present continuous#^except-words|State verbs]] cannot take continuous form, so the present perfect simple is used instead to convey this meaning:
+- How long have you known Jane?
+- I've had these shoes for ages.
+- He's been in hosptial since Monday.
+^meaning-until-now
+
 
 # Words
 ## connect now
-We can use the present perfect simple with just, already and yet. With such words, the semantic of present perfect simple is [[#^semantic-connect-now]]:
+We can use the present perfect simple with **just, already and yet**. With such words, the meaning of present perfect simple is [[#^meaning-connect-now]]:
 
 Just equals to a short time age:
 - 'Are you hungry?' 'No, I've just had lunch'
@@ -58,7 +64,7 @@ We can use yet in questions and negative sentences:
 - I've written the email. but I haven't sent it yet.
 
 ## until now
-We can use present perfect simple with recently, in the last few days, so far, since I arrived etc. With such words, the semantic of present perfect simple is [[#^semantic-until-now]]:
+We can use present perfect simple with **recently, in the last few days, so far, since I arrived etc.** With such words, the meaning of present perfect simple is [[#^meaning-until-now]]:
 - Have you heard anything from Ben recently?
 - I've met a lot of people in the last few days.
 - Everything is going well. There haven't been any problems so far.
@@ -78,7 +84,7 @@ Amy is back home now. She has been to Italy. -> she has now come back.
 
 Gone (to) means someone has gone, and now, he is in his way to destination, he isn't here. Whereas been (to) means someone went to the destination, and went home from the destination, and now, he is here.
 
-To be precise, been (to) equals visited(noted that this is past form), whereas gone (to) equals past participle form of go.
+To be precise, been (to) equals visited(it's worth noting that this is past form), whereas gone (to) equals past participle form of go.
 
 ![[Present perfect simple_1|1000|center]]
 
