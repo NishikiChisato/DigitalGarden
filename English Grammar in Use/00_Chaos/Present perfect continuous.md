@@ -37,5 +37,5 @@ With this meaning, we can use the present perfect continuous for repeated action
 - Every morning they meet in the same cafe. They've been going there for years.
 In essence, when we use present perfect continuous with **how long/for/since**, we means that the activity started in the past and just stopped or is still happening.
 
-This meaning is essentially similar to the [[Present perfect simple#^meaning-until-now]], but the difference lies in **present perfect continuous has extra meaning based on present perfect, that is activity just stopped or is still happening**.
+This meaning is essentially similar to the [[Present Perfect Simple#^meaning-until-now]], but the difference lies in **present perfect continuous has extra meaning based on present perfect, that is activity just stopped or is still happening**.
 ^meaning-still-happening
