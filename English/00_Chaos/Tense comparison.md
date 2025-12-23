@@ -85,154 +85,95 @@ We use the past simple for a finished time in the past. For example: yesterday/l
 # Aspect comparison
 ## Present continuous vs. present simple
 
-### 3.1 Differences between present continuous and present simple:
+### Differences between present continuous and present simple:
 
 Present continuous:
-
 - We use the continuous for things happening at or around the time of speaking, and the action is not complete
-    
 - We use the continuous for **temporary** situations. (things that continuous for a short time.)
-    
 
 Present simple:
-
 - We use the simple for things in general or things that happen repeatedly.
-    
 - We use the simple for **permanent** situations. (things that continue for a long time.)
-    
 
-​
-
-pastnowfutureI am doingpastnowfutureI do
-
-​
+![[present continuous and present simple|1000|center]]
 
 Present continuous examples:
-
 - The water is boiling. Be careful.
-    
 - I'm getting hungry. Let's go and eat.
-    
 - Kate wants to work in Italy, so she's learning Italian.
-    
 - The population os the world is increasing very fast.
-    
 - I'm living with some friends until I find a place of my own.
-    
 - A: You're working hard today; B: Yes, I have a lot to do.
-    
 
 Present simple examples:
-
 - Water boils at 100 degrees Celsius.
-    
 - I always get hungry in the afternoon.
-    
 - Most people learn to swim when they are children.
-    
 - Every day the population of the world increases by about 200000 people.
-    
 - My parents live in London. They have lived there all their lives.
-    
 - Joe isn't lazy. He works hard most of the time.
 
-### 3.2 I always do and I'm always doing
+### I always do and I'm always doing
 
 I always do something = I do it every time:
-
 - I always go to work by car. (not I'm always going)
-    
 
 I'm always doing something = I do it too often or more often than normal:
-
 - I've lost my keys again. I'm always losing them. -> I lose them too often, or more often than normal
-    
 - Paul is never satisfied. He's always complaining. -> he complains too much.
-    
 - You're always looking at your phone. Don't you have anything else to do?
-    
 - I'm always wanting to play when I'm studying.
 
-### 4.1 We use continuous forms for actions and happenings that have started but not finished. But some verbs are not normally used in this way
+### We use continuous forms for actions and happenings that have started but not finished. But some verbs are not normally used in this way
 
 The following verbs are not normally used in present continuous(instead, used in present simple):
-
 - like/want/need/prefer
-    
 - know/realise/understand/recognise
-    
 - believe/suppose/remember/mean
-    
 - belong/fit/contain/consist/seem
-    
 
 We don't say 'I am knowing', 'they are liking'. We say 'I know', 'they like'.
 
 Examples:
-
 - I'm hungry. I want something to eat. (not I'm wanting)
-    
 - Do you understand when I mean?
-    
 - Anna doesn't seem very happy right now.
-    
 
-### 4.2 Think
+### Think
 
 When think means 'believe' or 'have an opinion', we don't use the continuous(instead, use simple):
-
 - I think Mary is Canadian, but I'm not sure. (not I'm thinking)
-    
 - What do you think of my idea?
-    
 
 When think means 'consider', the continuous is possible:
-
 - I'm thinking about what happened. I often think about it. (the former is 'consider', the latter is a general thing)
-    
 - Nicky is thinking of giving up her job. (she is considering it)
-    
 
-### 4.3 Sensory verbs
+### Sensory verbs
 
 We normally use the present simple (not continuous) with see/hear/smell/taste:
 
 - Do you see that man over there?
-    
 - The room smells. Let's open a window
-    
 - This soup doesn't taste very good.
-    
 
 You can use the present simple or continuous to say how somebody looks or feels now:
-
 - You look well today. or you're looking well today.
-    
 - How do you feel now? or how are you feeling now?
-    
 - But: I usually feel tired in the morning. (not I'm usually feeling)
-    
 
-### 4.4 am/is/are being
+### am/is/are being
 
 You can say he's being, you're being etc. to say how somebody is behaving now:
-
 - I can't understand why he's being so selfish. He isn't usually like that. (Being selfish = behaving selfishly now)
-    
 - 'The path is icy. Don't slip.'; 'Don't worry. I'm being very careful.'
-    
 
 Compare:
-
 - He never thinks about other poeple. He's very selfish. (= he is selfish generally, not only now)
-    
 - I don't like to take risks. I'm a very careful person.
-    
 
 We use am/is/are being to say how a person is behaving (=doing something they can control) now. it's not usually possible in other situations:
-
 - Sam is ill. (not is being ill, since she can't control)
-    
 - Are you tired? (not are you being tired, since you can't control)
 
 ## Perfect continuous aspect vs. perfect simple aspect
