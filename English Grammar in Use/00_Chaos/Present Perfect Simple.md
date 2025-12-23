@@ -50,7 +50,7 @@ In the same way we say:
 - I bought a MacBook again. It's the second time I've bought it this year.
 ^meaning-the-time
 
-We use the present perfect simple to talk about a state that began in the past and still continues now. Note that this usage overlaps with the [[Present perfect continuous#^meaning-still-happening|present perfect continuous]]; the key difference is that [[Present continuous#^except-words|State verbs]] cannot take continuous form, so the present perfect simple is used instead to convey this meaning:
+We use the present perfect simple to talk about a state that began in the past and still continues now. Note that this usage overlaps with the [[English Grammar in Use/00_Chaos/Present perfect continuous#^meaning-still-happening|present perfect continuous]]; the key difference is that [[Present continuous#^except-words|State verbs]] cannot take continuous form, so the present perfect simple is used instead to convey this meaning:
 - How long have you known Jane?
 - I've had these shoes for ages.
 - He's been in hosptial since Monday.
@@ -97,7 +97,7 @@ Gone (to) means someone has gone, and now, he is in his way to destination, he i
 
 To be precise, been (to) equals visited(it's worth noting that this is past form), whereas gone (to) equals past participle form of go.
 
-![[Present perfect simple_1|1000|center]]
+![[English Grammar in Use/90_Assets/Present perfect simple|1000|center]]
 
 ## Past Simple
 Everytime we use present perfect simple, we can also use past simple:

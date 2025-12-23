@@ -38,7 +38,7 @@ Use the past simple for things that are not recent or new:
 - Mozart was a composer. He wrote more than 600 pieces of music.
 - My mother grew up in Italy.
 
-We use the present perfect to [[Present Perfect Simple#^meaning-news|give new information]]. But if we continue to talk about it, we normally use the past simple:
+We use the present perfect to [[English Grammar in Use/00_Chaos/Present Perfect Simple#^meaning-news|give new information]]. But if we continue to talk about it, we normally use the past simple:
 A: Ow! **I've burnt** my self.
 B: How **did** you **do** that? (not have you done)
 A: I **picked** up a hot dish. (not have picked)
@@ -240,9 +240,9 @@ We use am/is/are being to say how a person is behaving (=doing something they ca
 ## Perfect continuous aspect vs. perfect simple aspect
 ### Differences
 Let's take two scenarioes as example:
-- There is paint on Kate's clothes. She has been painting her bedroom. -> [[Present perfect continuous]]
+- There is paint on Kate's clothes. She has been painting her bedroom. -> [[English Grammar in Use/00_Chaos/Present perfect continuous]]
 We are thinking of the **activity itself**. It doesn't matter whether it has been finished or not. In this example, the activity has not been finished.
-- The bedroom was green. Now it's yellow. She has painted her bedroom. -> [[Present Perfect Simple]]
+- The bedroom was green. Now it's yellow. She has painted her bedroom. -> [[English Grammar in Use/00_Chaos/Present Perfect Simple]]
 Here, the important thing is that **something has been finished**. 'She has painted' is a completed action. We are thinking about **the result of the activity**, not the activity itself.
 
 We can use the *continuous* to say *how long*(for something that is still happening):
@@ -270,8 +270,8 @@ We can use either the continuous or simple with **live** and **work**:
 ## Continuous aspect vs. perfect continuous aspect
 ### present continuous and present perfect continuous
 The difference between them is as the following shown:
-![[Tense comparsion_1|1000|center]]
-[[Present continuous]] describs the action is continuous at the time of speaking, whereas [[Present perfect continuous]] describes the action recently stopped or is still happening.
+![[Tense comparsion|1000|center]]
+[[Present continuous]] describs the action is continuous at the time of speaking, whereas [[English Grammar in Use/00_Chaos/Present perfect continuous]] describes the action recently stopped or is still happening.
 
 # Summary
 The form of verb in English has two dimensions: tense and aspect. The former determines when the action occurs, and the latter determines the state of action(or the perspective from which you observe the action).
