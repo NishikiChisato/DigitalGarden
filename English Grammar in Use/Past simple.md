@@ -1,3 +1,7 @@
+---
+tags: [English,English-Grammar-in-Use]
+category: [English,English-Grammar-in-Use]
+---
 ### 5.1 The example of Past Simple
 
 Wolfgang Amadeus Mozart was an Austrian musician and composer. He lived from 1756 to 1791. He started composing at the age of five and wrote more than 600 pieces of music. He was only 35 years old when he died.

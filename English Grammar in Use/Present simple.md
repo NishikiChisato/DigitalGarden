@@ -1,3 +1,11 @@
+---
+category:
+  - English
+  - English-Grammar-in-Use
+tags:
+  - English
+  - English-Grammar-in-Use
+---
 ### 2.1 Example: Alex is a bus driver, but now he is in bed asleep. He is not driving a bus. (He is asleep.). But, he **drives** a bus, and he is a bus driver.
 
 drive(s), work(s), do(es) etc. is the present simple

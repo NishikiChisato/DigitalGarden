@@ -1,9 +1,10 @@
 ---
+category: [English,English-Grammar-in-Use]
 tags:
   - English
   - English-Grammar-in-Use
 ---
-# Tense comparsion
+# Tense comparision
 
 
 ## Present perfect vs. past simple
@@ -40,7 +41,7 @@ A: Ow! **I've burnt** my self.
 B: How **did** you **do** that? (not have you done)
 A: I **picked** up a hot dish. (not have picked)
 
-A: Look! Somebody has spilt something on the sofa.
+A: Look! Somebody has split something on the sofa.
 B: Well, it **wasn't** me. I **didn't do** it. (not hasn't been/haven't done)
 
 Because the present perfect describes present situation, we don't use it when we talk about a finished time(yesterday/last year/ten minutes ago). For these situations, we use a past tense:

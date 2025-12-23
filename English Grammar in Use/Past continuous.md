@@ -1,3 +1,7 @@
+---
+tags: [English,English-Grammar-in-Use]
+category: [English,English-Grammar-in-Use]
+---
 ### 6.1 Examples of Past Continuous
 
 Yesterday Karen and Joe played tennis. They started at 10 o'clock and finished at 11.30. So, at 10.30 they were playing tennis.

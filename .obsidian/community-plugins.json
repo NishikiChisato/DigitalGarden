@@ -3,5 +3,7 @@
   "obsidian-excalidraw-plugin",
   "obsidian-style-settings",
   "obsidian-minimal-settings",
-  "webpage-html-export"
+  "webpage-html-export",
+  "templater-obsidian",
+  "obsidian-linter"
 ]
