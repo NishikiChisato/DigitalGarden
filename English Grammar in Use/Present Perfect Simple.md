@@ -15,6 +15,13 @@ We use present perfect simple to talk about a past action with a result in the p
 
 This is a brief overview, we're going to provide detailed explanation.
 
+We usually use present perfect to give a new information(announce a recent happening):
+- Ow! I've cut my finger.
+- The road is closed. There's been an accident.
+- The Police have arrested two men.
+	- Note: After announcing the news(use present perfect), we usually switch past simple to give the details
+^meaning-news
+
 When we use the present perfect simple, there is a connection with now. The action in the past has a result now:
 - Tom has lost his key. -> he doesn't have it now.
 - He told me his name, but I've forgotten it. -> I can't remember it now
