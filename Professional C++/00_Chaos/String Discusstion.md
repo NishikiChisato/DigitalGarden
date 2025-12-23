@@ -1,8 +1,7 @@
 ---
 tags:
-  - Professional-CPP
-category:
-  - Professional-CPP
+  - book/Professional-CPP
+  - CPP
 Date Created: 2025-12-23 11:19:08
 Date Modified: 2025-12-23 16:42:35
 ---

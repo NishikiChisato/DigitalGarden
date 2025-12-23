@@ -1,7 +1,5 @@
 ---
 tags:
+  - book/Professional-CPP
   - CPP
-  - Professional-CPP
-category:
-  - Professional-CPP
 ---

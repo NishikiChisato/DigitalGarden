@@ -1,7 +1,5 @@
 ---
 tags:
+  - book/English-Grammar-in-Use
   - English
-  - English-Grammar-in-Use
-category:
-  - English-Grammar-in-Use
 ---
