@@ -5,6 +5,8 @@ category:
 tags:
   - English
   - English-Grammar-in-Use
+Date Created: 2025-12-23 09:45:45
+Date Modified: 2025-12-23 14:26:13
 ---
 ### 2.1 Example: Alex is a bus driver, but now he is in bed asleep. He is not driving a bus. (He is asleep.). But, he **drives** a bus, and he is a bus driver.
 

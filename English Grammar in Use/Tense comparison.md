@@ -3,9 +3,10 @@ category: [English,English-Grammar-in-Use]
 tags:
   - English
   - English-Grammar-in-Use
+Date Created: 2025-12-23 09:45:45
+Date Modified: 2025-12-23 14:26:13
 ---
-# Tense comparision
-
+# Tense comparison
 
 ## Present perfect vs. past simple
 Examples:
@@ -58,7 +59,7 @@ Compare the following examples:
 - Tom has lost his key. He can't get into the house. -> Tome lost his key yesterday. He couldn't get into the house.
 - Is Carla here or has she left? -> When did Carla leave?
 
-We use the present perfect for a period of time that continues unitl now. For example: today/this week/since 2010:
+We use the present perfect for a period of time that continues until now. For example: today/this week/since 2010:
 - I've done a lot of work today.
 - It hasn't rained this week.
 - Have you seen Anna this morning? (It's still morning now)
@@ -70,7 +71,7 @@ We use the present perfect for a period of time that continues unitl now. For ex
 - I've never ridden a house. (in my life)
 - It's the last day of your holiday. You say: It's been a really good holiday. I've really enjoyed it.
 
-We use the past cimple for a finished time in the past. For example: yesterday/last week/from 2010 to 2014:
+We use the past simple for a finished time in the past. For example: yesterday/last week/from 2010 to 2014:
 - I did a lot of work yesterday.
 - It didn't rain last week.
 - Did you see Anna this morning? (it's now afternoon or evening, not morning)
@@ -82,7 +83,7 @@ We use the past cimple for a finished time in the past. For example: yesterday/l
 - I never rode a bike when I was a child. (I never rode a bike in the past, but now maybe I do or don't)
 - After you come back from holiday you say: It was a really goo d holiday. I really enjoyed it. (holiday has passed, now isn't in holiday)
 
-# Aspect comparsion
+# Aspect comparison
 ## Present continuous vs. present simple
 
 ### 3.1 Differences between present continuous and present simple:

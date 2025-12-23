@@ -5,6 +5,8 @@ category:
 tags:
   - English
   - English-Grammar-in-Use
+Date Created: 2025-12-23 09:45:45
+Date Modified: 2025-12-23 14:26:13
 ---
 ### 1.1 Example: Sarah is in her car. She is on her way to work. -> She **is driving** to work.
 

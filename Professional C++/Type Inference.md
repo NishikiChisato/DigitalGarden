@@ -3,6 +3,8 @@ category: Professional-CPP
 tags:
   - CPP
   - Professional-CPP
+Date Created: 2025-12-19 16:00:24
+Date Modified: 2025-12-23 14:23:52
 ---
 # The auto keyword
 The auto keyword has a number of different uses:

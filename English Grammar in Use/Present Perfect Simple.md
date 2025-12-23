@@ -3,6 +3,8 @@ category: [English,English-Grammar-in-Use]
 tags:
   - English
   - English-Grammar-in-Use
+Date Created: 2025-12-23 09:45:45
+Date Modified: 2025-12-23 14:26:13
 ---
 # Structure
 The present perfect simple is have/has + past participle. The past participle often ends in -ed, but many verbs are [[Regular and Irregular Verbs|irregular verbs]].
