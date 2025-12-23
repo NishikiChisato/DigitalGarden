@@ -15,12 +15,12 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "English Grammar in Use",
-      "template": "Templater/English Grammar in Use.md"
+      "folder": "English",
+      "template": "Templater/English.md"
     },
     {
-      "folder": "Professional C++",
-      "template": "Templater/Professional C++.md"
+      "folder": "Tech",
+      "template": "Templater/Tech.md"
     }
   ],
   "enable_file_templates": false,

@@ -19,7 +19,7 @@ We use present perfect continuous for an activity that has recently stopped or j
 - I've been talking to Amanda and she agrees with me.
 - Where have you been? I've been looking for you.
 
-![[English Grammar in Use/90_Assets/Present perfect continuous|1000|center]]
+![[English/90_Assets/Present perfect continuous|1000|center]]
 ^meaning-recently-stopped
 
 With **how long, for... and since...**, we can use present perfect continuous for the activity that is still happening or has just stopped. In this meaning, continuous can be interpret how long.
@@ -36,5 +36,5 @@ With this meaning, we can use the present perfect continuous for repeated action
 - Every morning they meet in the same cafe. They've been going there for years.
 In essence, when we use present perfect continuous with **how long/for/since**, we means that the activity started in the past and just stopped or is still happening.
 
-This meaning is essentially similar to the [[English Grammar in Use/00_Chaos/Present Perfect Simple#^meaning-until-now]], but the difference lies in **present perfect continuous has extra meaning based on present perfect, that is activity just stopped or is still happening**.
+This meaning is essentially similar to the [[English/00_Chaos/Present Perfect Simple#^meaning-until-now]], but the difference lies in **present perfect continuous has extra meaning based on present perfect, that is activity just stopped or is still happening**.
 ^meaning-still-happening
