@@ -2,8 +2,8 @@
 tags:
   - book/Professional-CPP
   - CPP
-Date Created: 2025-12-23 15:31:11
-Date Modified: 2025-12-23 15:32:40
+aliases:
+  - raw string
 ---
 >[!NOTE] This section is copied from the original book, since I think interpret it with my own words is unnecessary.
 

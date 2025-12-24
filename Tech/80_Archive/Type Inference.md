@@ -1,7 +1,6 @@
 ---
 tags:
-  - book/Professional-CPP
-  - CPP
+  - Archived
 Date Created: 2025-12-19 16:00:24
 Date Modified: 2025-12-23 14:23:52
 ---

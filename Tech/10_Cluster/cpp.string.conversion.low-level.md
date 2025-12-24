@@ -2,46 +2,10 @@
 tags:
   - book/Professional-CPP
   - CPP
-Date Created: 2025-12-22 20:07:52
-Date Modified: 2025-12-23 14:23:52
+  - status/evergreen
+aliases:
+  - low-level conversion
 ---
-C++ library provides both high-level and low-level conversion for numeric conversion. We can use them to convert fixed/floating point to string and vice versa.
-
-# High-level Conversion
-
-High-level conversion is pretty straightforward, since the C++ library handles most of the work for you. All of the following function both defined in `<string>` header.
-
-## Converting to string
-For converting to string from numeric value, we simply use the following function:
-
-```cpp
-std::string to_string(T val);
-```
-
-This function is available to convert numeric value into `std::string`, where `T` can be `(unsigned) int, (unsigned) long, (unsigned) long long, float, double, or long double`. All of these functions create and return a new `std::string` object and manage all necessary memory allocation for you.
-
-## Converting from string
-For converting to numeric value from string, we simply use the family of following functions:
-
-```cpp
-int stoi(const std::string& str, size_t *pos = nullptr, int base = 10);
-long stol(const std::string& str, size_t *pos = nullptr, int base = 10);
-unsigned long stoul(const std::string& str, size_t *pos = nullptr, int base = 10);
-long long stoll(const std::string& str, size_t *pos = nullptr, int base = 10);
-unsigned long long stoull(const std::string& str, size_t *pos = nullptr, int base = 10);
-float stof(const std::string& str, size_t *pos = nullptr);
-double stod(const std::string& str, size_t *pos = nullptr);
-long double stold(const std::string& str, size_t *pos = nullptr);
-```
-
-In these prototypes, `str` is the `std::string` that we want to convert, `pos` is a pointer that receives the index of the first unconverted character, and `base` is the mathematical base that used in conversion. The `pos` pointer can be `nullptr`, in which case it's ignored. These function handle the leading white-space, and throw `std::invalid_argument` or `std::out_of_range` if no conversion can be performed or the converted value is outside the range of the return type, respectively.
-
-By default, the `base` for these functions both are `10`, which assumes the string can be converted to decimal number. We can also specify it to another number. Note that if we specify it to `0`, in which case it would automatically figure out the base of the given number as the follows:
-- If the number starts with `0x` or `0X`, it's interpreted as hexadecimal number.
-- If the number starts with `0`, it's interpreted as octal number.
-- Otherwise, it's interpreted as decimal number.
-
-
 # Low-level Conversion
 
 Different from the high-level conversion functions, low-level conversion function only has two prototypes, all defined in `<charconv>`. These function don't automatically handle memory allocation and don't work directly with `std::string`, but instead they work with the raw buffer provided by the user. Since the nature of these, the performance of low-level conversion functions can be orders of magnitude faster than high-level conversion functions. These functions are also designed for perfect round-tripping, which means that serializing a numerical value to a string representation followed by deserializing the resulting string back to a numerical value results in the exact same value as the original one. Besides for high performance and perfect round-tripping, these function also provides [[locale independent]] conversions, so we can use these functions to serialize/deserialize numerical data from/to human-readable data format(JSON/XML and so on).
