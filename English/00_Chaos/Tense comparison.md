@@ -82,6 +82,31 @@ We use the past simple for a finished time in the past. For example: yesterday/l
 - I never rode a bike when I was a child. (I never rode a bike in the past, but now maybe I do or don't)
 - After you come back from holiday you say: It was a really goo d holiday. I really enjoyed it. (holiday has passed, now isn't in holiday)
 
+## Present perfect and past perfect
+![[present perfect and past perfect|1000|center]]
+
+Present perfect examples:
+- Who is that woman? I've seen her before, but I can't remember where. -> the time of speaking it is now.
+- We aren't hungry. We've just had lunch.
+- The house is dirty. They haven't cleaned it for weeks.
+
+Past perfect examples:
+- I wasn't sure who she was. I'd seen her before, but I couldn't remember where. -> the time of speaking it is in the past.
+- We weren't hungry. We'd just had lunch.
+- The house was dirty. They hadn't cleaned it for weeks.
+
+## Present perfect continuous and past perfect continuous
+
+![[present perfect continuous and past perfect continuous|1000|center]]
+
+Present perfect continuous examples:
+- I hope the bus comes soon. I've been waiting for 20 minutes. (before now)
+- James is out of breath. He's been running.
+
+Past perfect continuous examples:
+- At last the bus came. I'd been waiting for 20 minutes. (before the bus came)
+- James was out of breath. He'd been running.
+
 # Aspect comparison
 ## Present continuous vs. present simple
 
@@ -211,6 +236,22 @@ We can use either the continuous or simple with **live** and **work**:
 The difference between them is as the following shown:
 ![[Tense comparsion|1000|center]]
 [[Present continuous]] describs the action is continuous at the time of speaking, whereas [[English/00_Chaos/Present perfect continuous]] describes the action recently stopped or is still happening.
+
+## Past simple and past perfect
+
+Past simple examples:
+- A: Was Tom there when you arrived? -> B: Yes, but he left soon afterwards.
+- Kate wasn't at home when I phoned. She was at her mother's house.
+
+Past perfect examples:
+- A: Was Tom there when you arrived? -> B: No, he'd already left.
+- Kate had just got home when I phoned. She'd been at her mother's house.
+
+## Past continuous and past perfect continuous
+
+Examples:
+- It **wasn't raining** when we went out. The sun **was shining**. But it **had been raining**, so the ground was wet.
+- Katherine **was lying** on the sofa. She was tired because she **had been working** hard.
 
 # Summary
 The form of verb in English has two dimensions: tense and aspect. The former determines when the action occurs, and the latter determines the state of action(or the perspective from which you observe the action).
